@@ -1,130 +1,191 @@
-# 👋 Bonjour, je suis Ayoub Labra
+# 👋 Bonjour, moi c'est Ayoub Labra
 
-### Ingénieur en informatique | Développeur Full Stack | Intelligence Artificielle
+<h3 align="center">Ingénieur en informatique | Développeur Full Stack | Intelligence Artificielle</h3>
 
-🎓 Ingénieur d'État en informatique et réseaux  
-💻 Développement web, mobile et API  
-🤖 Intégration de solutions d'intelligence artificielle  
-📍 Maroc | Ouvert aux opportunités professionnelles
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5A4&center=true&vCenter=true&width=750&lines=Ingenieur+en+informatique;Developpeur+Full+Stack;Laravel+%7C+React+%7C+React+Native;Conception+d%27API+REST;Integration+de+solutions+IA;Createur+d%27AI+Esthetique" alt="Présentation animée" />
+</p>
 
-Passionné par le développement logiciel, je conçois et développe des applications web, des API REST et des solutions métier. J'aime transformer des idées en produits concrets grâce à des technologies modernes, une architecture robuste et l'intégration de services intelligents.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayoublabra&label=Visites+du+profil&color=0ea5a4&style=for-the-badge" alt="Compteur de visites" />
+  <img src="https://img.shields.io/github/followers/ayoublabra?label=Abonn%C3%A9s&style=for-the-badge&color=0ea5a4" alt="Abonnés GitHub" />
+  <img src="https://img.shields.io/github/stars/ayoublabra?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0ea5a4" alt="Étoiles GitHub" />
+</p>
 
-🚀 Je développe actuellement **AI Esthétique**, une plateforme de réservation et de gestion pour les professionnels de la beauté et du bien-être, enrichie par l'intelligence artificielle.
+---
+
+## 🚀 Ce que je développe
+
+### ✨ AI Esthétique — La beauté à portée de clic
+
+AI Esthétique est une plateforme de réservation et de gestion destinée aux professionnels de la beauté et du bien-être.
+
+🎯 **Ma vision :** simplifier la réservation des prestations de beauté et aider les professionnels à mieux gérer leur activité grâce aux technologies modernes et à l'intelligence artificielle.
+
+**Fonctionnalités en développement :**
+
+- 💈 Découverte des salons et des prestations.
+- 📅 Réservation et gestion des rendez-vous.
+- 👥 Gestion des clients, des collaborateurs et des établissements.
+- 📊 Tableaux de bord et statistiques métier.
+- 🤖 Intégration progressive de fonctionnalités d'intelligence artificielle.
+- 📱 Développement d'une expérience adaptée au web et au mobile.
+
+**Stack technique :**
+
+`Laravel 12` · `PHP` · `React.js` · `MySQL` · `API REST` · `IA`
+
+🔗 [Découvrir mes dépôts GitHub](https://github.com/ayoublabra?tab=repositories)
 
 ---
 
 ## 👨‍💻 À propos de moi
 
-- 🔭 Développement de **AI Esthétique**, une plateforme SaaS dédiée aux salons de beauté.
-- ⚙️ Conception d'API REST et développement backend avec Laravel et Spring Boot.
-- 🎨 Création d'interfaces web modernes avec React.js et Angular.
-- 📱 Développement d'applications mobiles avec React Native et Ionic.
-- 🤖 Intégration d'API d'intelligence artificielle, notamment OpenAI.
-- 🔌 Intégration de services externes et automatisation de processus métier.
-- 🐳 Intérêt pour Docker, les microservices et les architectures évolutives.
-- 🤝 Ouvert aux collaborations techniques et aux nouvelles opportunités.
+Je suis ingénieur en informatique, spécialisé dans le développement logiciel et les technologies web. J'aime concevoir des applications utiles, développer des API robustes et intégrer des services externes pour résoudre des problèmes concrets.
+
+- 🔭 Je développe actuellement AI Esthétique.
+- ⚙️ Je conçois des API REST avec Laravel et PHP.
+- 🎨 Je développe des interfaces web modernes avec React.js et Angular.
+- 📱 Je m'intéresse aux applications mobiles avec React Native et Ionic.
+- ☕ Je développe également avec Java et Spring Boot.
+- 🤖 J'explore l'intégration de l'intelligence artificielle dans les applications métier.
+- 🐳 Je m'intéresse à Docker, aux microservices et aux architectures évolutives.
+- 🤝 Je suis ouvert aux collaborations et aux opportunités professionnelles.
 
 ---
 
-## 🛠️ Compétences techniques
-
-**Langages de programmation**
-
-PHP · Java · JavaScript · Python · C++ · SQL
-
-**Backend et API**
-
-Laravel · Spring Boot · API REST
-
-**Frontend**
-
-React.js · Angular · HTML5 · CSS3
-
-**Développement mobile**
-
-React Native · Ionic
-
-**Bases de données**
-
-MySQL · PostgreSQL
-
-**Intelligence artificielle**
-
-OpenAI API · Intégration de solutions IA · Automatisation intelligente
-
-**DevOps et outils**
-
-Git · GitHub · Docker · Apache Kafka · Eureka · Jira
-
----
-
-## 🚀 Mes projets
-
-### ✨ AI Esthétique — Plateforme de réservation beauté
-
-Développement d'une plateforme permettant aux clients de découvrir des salons, de consulter les prestations et de réserver des rendez-vous.
-
-**Fonctionnalités principales :**
-- Recherche de salons et de prestations.
-- Gestion des rendez-vous.
-- Gestion des salons et des services.
-- Tableaux de bord et indicateurs métier.
-- Intégration progressive de fonctionnalités d'intelligence artificielle.
-
-**Technologies :** Laravel 12 · React.js · API REST · IA
-
-🔗 Dépôt : ajouter le lien du projet.
+## 💼 Mon expérience et mes réalisations
 
 ### 🤖 IAWEB — Génération de cahiers des charges avec l'IA
 
-Participation au développement d'une application permettant de faciliter la création de cahiers des charges grâce à l'intelligence artificielle.
+Participation au développement d'une application visant à faciliter la génération de cahiers des charges logiciels grâce à l'intelligence artificielle.
 
-- Génération automatisée de documents.
+- Automatisation de la génération de documents.
 - Intégration de l'API OpenAI.
 - Développement backend et logique métier.
 
 **Technologies :** Laravel · PHP · OpenAI API
 
-### 📄 Bailey Assurance — Gestion des contrats d'assurance
+### 📄 Bailey Assurance — Applications métier et gestion documentaire
 
-Participation au développement et à la maintenance d'applications métier dédiées à la gestion des contrats et des processus documentaires.
+Expérience en développement et maintenance d'applications métier pour le secteur de l'assurance.
 
-- Gestion des contrats.
+- Développement avec Laravel.
 - Intégration de DocuSign pour la signature électronique.
 - Intégration de services externes.
-- Suivi des tâches et collaboration avec Jira.
+- Collaboration et suivi des tâches avec Jira.
 
-**Technologies :** Laravel · PHP · DocuSign API · Jira
+**Technologies :** Laravel · PHP · DocuSign · Jira
 
-### 📱 Sosoon — Automatisation des publications sur les réseaux sociaux
+### 📱 Sosoon — Automatisation des réseaux sociaux
 
 Projet orienté vers l'automatisation de la publication de contenus sur les réseaux sociaux.
 
 - Automatisation des publications Facebook et Instagram.
-- Intégration d'API externes.
-- Simplification des processus de publication.
+- Intégration de services externes.
+- Simplification des workflows de publication.
 
 **Technologies :** à compléter selon la stack réelle du projet.
 
 ---
 
-## 💡 Ma manière de travailler
+## 🧭 Mon parcours d'apprentissage
 
-- Concevoir des solutions adaptées aux besoins métier.
-- Développer des API fiables et maintenables.
-- Créer des interfaces modernes et ergonomiques.
-- Intégrer des services tiers et des fonctionnalités IA.
-- Collaborer avec Git, GitHub et des outils de gestion de projet.
-- Apprendre continuellement et améliorer la qualité du code.
-
----
-
-## 🤝 Me contacter
-
-💼 **LinkedIn :** ajouter le lien de mon profil  
-🌐 **Portfolio :** ajouter le lien de mon portfolio  
-📧 **E-mail :** ajouter mon adresse professionnelle
+- 🤖 **Intelligence artificielle :** intégration de modèles IA et développement de fonctionnalités intelligentes.
+- ☁️ **Cloud et DevOps :** approfondissement de Docker, du déploiement et de la gestion des environnements.
+- 🏗️ **Architecture logicielle :** conception d'API fiables et d'applications maintenables.
+- 📱 **Développement mobile :** perfectionnement avec React Native.
+- 🔌 **Intégrations :** connexion d'applications à des API et services tiers.
+- 📚 **Veille technologique :** apprentissage continu et amélioration de mes pratiques de développement.
 
 ---
 
-⭐ *Concevoir, développer et innover : transformer les idées en solutions logicielles utiles.*
+## 🛠️ Langages et outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,react,angular,html,css,bootstrap,python,cpp,mysql,postgres,docker,git,github,postman,vscode,figma" alt="Langages et outils techniques" />
+</p>
+
+### Backend et API
+
+`PHP` · `Laravel` · `Java` · `Spring Boot` · `API REST`
+
+### Frontend et mobile
+
+`JavaScript` · `React.js` · `Angular` · `React Native` · `Ionic` · `HTML5` · `CSS3`
+
+### Bases de données
+
+`MySQL` · `PostgreSQL` · `SQL`
+
+### DevOps et collaboration
+
+`Git` · `GitHub` · `Docker` · `Apache Kafka` · `Eureka` · `Jira` · `Postman`
+
+### Intelligence artificielle
+
+`OpenAI API` · `Intégration de modèles IA` · `Automatisation intelligente`
+
+---
+
+## 🏆 Mes trophées GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayoublabra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="Trophées GitHub" />
+</p>
+
+---
+
+## 📊 Mes statistiques GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ayoublabra&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="Statistiques GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoublabra&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Langages les plus utilisés" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayoublabra&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions GitHub" />
+</p>
+
+---
+
+## 🐍 Mes contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayoublabra/ayoublabra/output/github-contribution-grid-snake.svg" alt="Animation Snake des contributions GitHub" />
+</p>
+
+---
+
+## 🤝 Connectons-nous
+
+<p align="center">
+  <a href="https://github.com/ayoublabra">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  💼 Ouvert aux opportunités professionnelles et aux collaborations techniques.
+</p>
+
+---
+
+## 😄 Une petite blague de développeur
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Blague de développeur" />
+</p>
+
+---
+
+<p align="center">
+  <i>« Transformer les idées en solutions, une ligne de code à la fois. »</i>
+</p>
+
+<p align="center">
+  ⭐ Si un de mes projets vous intéresse, n'hésitez pas à le découvrir et à lui donner une étoile !
+</p>
